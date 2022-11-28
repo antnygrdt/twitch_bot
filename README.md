@@ -1,2 +1,2 @@
-Chat bot for Twitch
+Chat bot for Twitch\n
 Inspired by Wizebot
